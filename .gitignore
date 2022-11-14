@@ -4,3 +4,5 @@
 *.xlsx
 SensitivityAnalysisTest.ipynb
 CIVL 316 - Lab B.2.ipynb
+venv
+.DS_Store
